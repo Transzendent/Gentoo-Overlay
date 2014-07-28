@@ -1,4 +1,4 @@
-# Generic ebuild file for Eagle Mode 0.84.0
+# Generic ebuild file for Eagle Mode 0.85.0
 
 EAPI=2
 
